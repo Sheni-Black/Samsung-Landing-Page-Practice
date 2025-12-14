@@ -120,8 +120,8 @@
     align-self: flex-end;
     padding-bottom: 0.7rem;
 }
-;
-.black{
+
+ .nav-bar .black{
     display: none;
 }
 
