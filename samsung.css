@@ -1435,7 +1435,7 @@
 
 @media (max-width:450px) {
     .galaxy{
-        height: 70vh;
+        height: 50vh;
     }
 
     .galaxy-container{
@@ -1449,7 +1449,7 @@
 
         .galaxy-content{
         width: 24%;
-        height: 100%;
+        height: 95%;
         scroll-snap-align: start;
         scroll-snap-stop: always normal;
         flex: 0 0 75%;
@@ -1464,7 +1464,7 @@
     }
 
     .monitor{
-        height: 70vh;
+        height: 50vh;
     }
 
     .monitor-container{
@@ -1478,7 +1478,7 @@
 
     .monitor-content{
         width: 24%;
-        height: 100%;
+        height: 95%;
         scroll-snap-align: start;
         scroll-snap-stop: always normal;
         flex: 0 0 75%;
@@ -1493,7 +1493,7 @@
     }
 
     .kitchen{
-        height: 70vh;
+        height: 50vh;
     }
 
     .kitchen-container{
@@ -1507,7 +1507,7 @@
 
     .kitchen-content{
         width: 24%;
-        height: 100%;
+        height: 95%;
         scroll-snap-align: start;
         scroll-snap-stop: always normal;
         flex: 0 0 75%;
@@ -1527,7 +1527,7 @@
     }
 
     .recommend{
-        height: 110vh;
+        height: 75vh;
     }
 
     .recommend h1{
@@ -1560,6 +1560,12 @@
 
     .recommend-content:nth-child(9) .recommend-content-content{
         gap: 1.1rem;
+    }
+
+        .final-slide{
+            width: 100%;
+            height: 60vh;
+            padding-inline: 2rem;
     }
 
     .final-slide-content{
